@@ -1,0 +1,17 @@
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\bin\Debug\SistemSembako.exe.config
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\bin\Debug\SistemSembako.exe
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\bin\Debug\SistemSembako.pdb
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\bin\Debug\Guna.UI2.dll
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.csproj.AssemblyReference.cache
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.Form1.resources
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.Properties.Resources.resources
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.csproj.GenerateResource.cache
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.csproj.CopyComplete
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.exe
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.pdb
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.Form2.resources
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.UC_Add.resources
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.UC_Display.resources
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.UC_Edit.resources
+C:\Users\Hiba\source\repos\SistemSembako\SistemSembako\obj\Debug\SistemSembako.UC_Search.resources
